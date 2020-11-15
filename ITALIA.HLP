@@ -1,0 +1,110 @@
+
+
+ 1.0 - Explicacao do Sistema :
+
+                 Esse Sistema foi desenvolvido, com  o objetivo de Controlar
+                 os Jogos da Copa EUA 94,  porem,   para  que  o  mesmo  lhe
+                 passe informacoes  corretas  sobre   os  jogos,  voce  deve
+                 conhecer sua funcao como usuario :
+
+                 1.1 - Em primeiro lugar, voce deve preencher os Scores  de
+                       todos os jogos das Eliminatorias(opcao 1 do Sistema)
+
+                 1.2 - Logo apos, voce deve partir  para   a Composicao das
+                       (8as.de Final, 4as.de Final, Semi-Finais, Finais).
+
+
+                       Nao esquecendo portanto, que voce  so  podera lancar
+                       cada uma dessas etapas de jogos, quando a etapa  an-
+                       terior for iniciada, isto e, quando a data  do  Sis-
+                       tema for maior que a data de inicio da  etapa  ante-
+                       rior.
+
+
+                       Nao esquecendo tambem que, no momento  em  que  voce
+                       for compor os jogos, o programa lhe cobrara  o  nome
+                       correto dos paises. Em caso  de  duvida, confira  de
+                       acordo com a tabela abaixo :
+
+
+                       GRUPO A            GRUPO B             GRUPO C
+
+                       - EUA              - BRASIL            - ALEMANHA
+                       - SUICA            - URSS              - BOLIVIA
+                       - COLOMBIA         - CAMAROES          - ESPANHA
+                       - ROMENIA          - SUECIA            - COREIA
+
+                       GRUPO D            GRUPO E             GRUPO F
+
+                       - ARGENTINA        - ITALIA            - BELG
+                       - GRECIA           - EIRE              - MAROC
+                       - NIGERIA          - NORUEGA           - HOLANDA
+                       - BULGARIA         - MEXICO            - SAUDI ARABIA
+
+
+                 1.3 - Quando os Paises ja estiverem definidos,  voce podera
+                       lancar os Scores das 4as.de Final, 8as.de Final,Semi-
+                       Finais e Finais.
+
+
+                 1.4 - Se voce cumprir sua funcao corretamente, voce podera
+                       obter pelo Sistema uma Estatistica Geral da Copa,bem
+                       como uma Estatistica por Pais na Copa, proporcionan-
+                       do-lhe a qualquer momento uma  demonstracao numerica
+                       em relacao a numero de gols, numero de  jogos, media
+                       de gols, media  de jogos e etc. Escolha a opcao 7.
+
+       * Importante :  - Antes de iniciar o Sistema, nao esqueca de atuali-
+                         zar a data do Sistema Operacional (para  atualizar
+                         digite <DATE>/<ENTER>/<data correta>/<ENTER>).
+                         A atualizacao da data correta e' muito  importante
+                         para o Sistema, pois quando voce for  fazer lanca-
+                         mentos de Scores, o programa  so aceitara, dias de
+                         jogos ja realizados, em relacao  a  data  atual do
+                         Sistema Operacional, dada  por voce  ao  iniciar a
+                         operacao  no  micro.  Resumindo,  o  programa  nao
+                         permitira   que   voce  lance  Scores  de  um  dia
+                         posterior a data atual do Sistema(verifique a data
+                         que o programa lhe apresenta no canto superior di-
+                         reito do video).
+
+                         Ex: atualizando a data do Sistema Operacional:
+
+                         A> DATE <ENTER>
+                         Enter new date (mm-dd-yy): ??-??-?? <ENTER>
+
+
+                       - Para carregar o Sistema digite :
+
+                         A> EUA94
+
+                       - Para que o Sistema lhe proporcione total confiabi-
+                         lidade, toda vez que inicializar o Sistema execute
+                         a opcao 9 (Atualizacao da tabela em disco).
+
+                       - Esse Sistema nao esta protegido contra copias,por-
+                         tanto para copia-lo siga os exemplos abaixo:
+
+                         Ex: Copias do Sistema:
+
+
+                         Do drive <A> para o <C> :
+
+                            A> C:                   <ENTER>
+                            C:\> MD EUA94           <ENTER>
+                            C:\> CD EUA94           <ENTER>
+                            C:\EUA94\> COPY A:*.*   <ENTER>
+                            C:\EUA94\> EUA94        <ENTER>
+
+
+
+                         Do drive <A> para o <B> :
+
+                            A> COPY *.* B: <ENTER>
+                            A> B:          <ENTER>
+                            B> EUA94       <ENTER>
+
+                         Obs : Nesse caso, nao esqueca de formatar o disco,
+                               antes de realizar a copia.
+
+

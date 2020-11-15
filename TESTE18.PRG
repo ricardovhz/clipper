@@ -1,0 +1,6 @@
+NDISK := DISKSPACE()
+NMEM  := MEMORY(0)
+? NDISK
+? NMEM
+?
+QUIT
